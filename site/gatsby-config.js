@@ -14,7 +14,7 @@ module.exports = {
       resolve: "gatsby-source-wordpress-experimental",
       options: {
         schema: {
-          timeout: 300000,
+          timeout: 9999999,
         },
         debug: {
           graphql: {
