@@ -6,8 +6,8 @@ module.exports = {
     {
       resolve: "gatsby-woocommerce-theme",
       options: {
-        wordPressUrl: `https://www.smartbuyz.com.au/`,
-        gatsbySiteUrl: `https://www.smartbuyz.com.au/`,
+        wordPressUrl: `https://www.smartbuyz.com.au`,
+        gatsbySiteUrl: `https://www.smartbuyz.com.au`,
       },
     },
     {
